@@ -1,7 +1,6 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Feb 15 09:45:29 2024
-
-@author: Danica
-"""
-
+print ("Danica A. Oliveria")
+print ("Brgy. Botilao, Sta.Cruz, Marinduque")
+print ("November 10, 2003")
+print ("College of Information and Computing Sciences")
+print ("BS Information Technology")
+print ("2A")
